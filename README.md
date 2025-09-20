@@ -16,7 +16,7 @@ Getting Started
  - Flutter SDK
  - Android Studio / VS Code with Flutter & Dart plugins
 ### To get started:
- - Clone the repo. `git clone https://github.com/IEEE-VIT/playtify.git`
+ - Clone the repo.
  - Checkout to a new branch. `git checkout -b my-amazing-feature`
  - Make some amazing changes.
  - `git add .`
